@@ -1,6 +1,6 @@
 ## Starting app
 
-- `git clone ???` - clone repo
+- `git clone git@github.com:miseljicAleksa/167pluto-app.git` - clone repo
 - `npm i` - install dependencies
 - `cd 167plato && touch .env && cp .env.example .env` - make local copy of .env
 - `npm start` - run app
